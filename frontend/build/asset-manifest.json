@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillswap/static/css/main.4a5aa87c.css",
+    "main.js": "/skillswap/static/js/main.d6449985.js",
+    "index.html": "/skillswap/index.html",
+    "main.4a5aa87c.css.map": "/skillswap/static/css/main.4a5aa87c.css.map",
+    "main.d6449985.js.map": "/skillswap/static/js/main.d6449985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5aa87c.css",
+    "static/js/main.d6449985.js"
+  ]
+}
