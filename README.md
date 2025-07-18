@@ -2,6 +2,8 @@
 
 A modern web application where users can exchange skills and knowledge with each other. Built for Odoo Hackathon 2025.
 
+Hacathon status: We got Selected 🏆 for Fisrt Round.
+
 ## 🌟 Features
 
 ### ✅ Complete User System
